@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem 'sqlite3', '~>1.4'
 
 # Testing
-gem 'rspec'
+gem 'rspec', '~> 3.12'
 
 # Debugging
 gem 'pry'
